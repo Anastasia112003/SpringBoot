@@ -1,6 +1,6 @@
-package ru.netology.springbootconditionalapp.controller;
+package ru.netology.springbootconditionalapp.config.controller;
 
-import ru.netology.springbootconditionalapp.profile.SystemProfile;
+import ru.netology.springbootconditionalapp.config.profile.SystemProfile;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

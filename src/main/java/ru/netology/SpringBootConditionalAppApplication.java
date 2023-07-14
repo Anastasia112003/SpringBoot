@@ -1,4 +1,4 @@
-package ru.netology.springbootconditionalapp;
+package ru.netology;
 
 
 import org.springframework.boot.SpringApplication;

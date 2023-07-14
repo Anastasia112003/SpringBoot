@@ -1,4 +1,4 @@
-package ru.netology.springbootconditionalapp.profile;
+package ru.netology.springbootconditionalapp.config.profile;
 
 public class ProductionProfile implements SystemProfile {
     @Override
